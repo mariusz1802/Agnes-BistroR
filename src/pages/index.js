@@ -3,7 +3,7 @@ import Hero from "../components/Hero"
 
 import Layout from "../components/layout"
 import ScrollUpBtn from "../components/ScrollUpBtn/ScrollUpBtn"
-import Seo from "../components/Seo"
+import Seo from "../components/seo"
 
 const IndexPage = () => (
   <Layout>
