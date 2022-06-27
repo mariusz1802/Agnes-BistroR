@@ -1,13 +1,11 @@
 import React from "react"
 import styled from "styled-components"
-import HeroSlider from "./HeroSlider"
+// import HeroSlider from "./HeroSlider"
 
 function Hero() {
   return (
     <>
-      <HeroContainer>
-        <HeroSlider />
-      </HeroContainer>
+      <HeroContainer>{/* <HeroSlider /> */}</HeroContainer>
     </>
   )
 }
